@@ -1,0 +1,85 @@
+body {
+  font-family: "Varela Round", sans-serif;
+}
+.container-fluid {
+  padding: 3% 10%;
+}
+h1 {
+  font-family: "Acme", sans-serif;
+  font-size: 57px;
+}
+/* logo */
+.logo {
+  padding-bottom: 1rem;
+}
+
+/* SLIDER */
+#slider {
+  height: 16rem;
+  padding: 7% 15%;
+  text-align: center;
+}
+.loginsignupbtn {
+  padding: 2%;
+  text-align: center;
+  background: #83a4d4; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #b6fbff,
+    #83a4d4
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #b6fbff,
+    #83a4d4
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.button {
+  margin: 0% 3% 3% 0;
+}
+
+/* FEATURES */
+.features {
+  padding: 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.aboutdata,
+.aboutimage,
+.howdata,
+.howimage {
+  padding: 5%;
+}
+
+/* Footer Section */
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* PICTURES */
+#logopic {
+  width: 14%;
+  height: 14%;
+  padding-top: 2%;
+}
+#aboutpic {
+  width: 90%;
+  height: 110%;
+}
+
+#slider {
+  background: #83a4d4; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #b6fbff,
+    #83a4d4
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #b6fbff,
+    #83a4d4
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
