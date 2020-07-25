@@ -1,0 +1,30 @@
+body {
+  background: #c0d2d4;
+  text-align: center;
+}
+
+.birthday {
+  font-family: "Molle", cursive;
+  font-size: 10vw;
+  color: #fff;
+  margin-top: 4rem;
+  line-height: 1.2;
+}
+a:link,
+a:visited {
+  background-color: rgb(132, 155, 253);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border: 3px;
+  border-color: coral;
+  border-radius: 5%;
+  font-size: 3vw;
+}
+
+a:hover,
+a:active {
+  background-color: black;
+}
